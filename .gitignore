@@ -1,0 +1,6 @@
+#ignore useless dir and file
+.classpath
+.project
+.settings/
+eclipse/
+.mymetadata
